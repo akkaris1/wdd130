@@ -1,0 +1,46 @@
+
+/* Where did my green header go? */
+/* Why can't Make Memories be like the others? */
+        body {
+            max-width: 1600px;  /* Limits how wide the page can get */
+            margin: 0 auto;  /* Centers the entire page */
+            padding: 20px;  /* Adds a little space around the edges */
+        }
+
+        .home-title {
+            text-align: center;
+            font-size: 36px;  /* Makes the text larger */
+            color: #003366;  /* I like this Deep blue color */
+            font-weight: bold;
+            margin-top: 20px; /* Adds spacing from the top */
+        }
+        
+        .hero-img {
+            display: block;    /* Makes sure the image behaves like a block */
+            margin: 0 auto;    /* Centers the image, hopefully */
+            max-width: 100%;   /* No overflowing Allowed */
+
+        }
+
+        #hero-msg {
+            text-align: center;  /* Centers text inside this section */
+            display: flex;       /* Enables flexbox */
+            flex-direction: column; /* Stacks items vertically */
+            align-items: center; /* Centers items horizontally */
+        }
+        .button-box {
+            display: flex;
+            justify-content: center; /* Centers the button */
+            margin-top: 10px; /* Adds a little needed spacing */
+        }
+        .book {
+            display: inline-block;  /* Ensures the button acts like a button */
+            padding: 10px 20px;  /* Adjusts size */
+            background-color: #003366; /* Dark blue background */
+            color: white;
+            text-decoration: none; /* Removes any underline */
+            border-radius: 5px; /* Rounds corners */
+        }
+        /* This wasn't as much fun as it should have been...
+        At least my button work, not I like social media... */
+        
