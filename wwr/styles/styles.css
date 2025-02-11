@@ -100,6 +100,21 @@ main section{
     margin-top: 20px; /* Adds space above the mountains image */
 }
 
+/*  .hero-img.photo {
+    display: block;
+    max-width: 300px;
+    height: auto;
+    border: 3px solid red;  /* how fat the frame is */
+    /*padding: 5px;  /* Space between the pic and frame: I like a little there! */
+    /*box-sizing: border-box;  */ 
+/*}*/ 
+.card-img {
+    border: 5px solid red;  /* Red border, 5px thick */
+    padding: 5px;           /* Optional: adds space between the image and the border */
+    box-sizing: border-box; /* Ensures the border doesn't affect the image layout */
+}
+
+
 .info-box {
     background-color: #f0e68c; /* A nice Light Khaki color */
     padding: 20px;             /* Adds space inside the box */
