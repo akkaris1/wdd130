@@ -110,7 +110,7 @@ main section{
 /*}*/ 
 .card-img {
     border: 5px solid red;  /* Red border, 5px thick */
-    padding: 5px;           /* Optional: adds space between the image and the border */
+    padding: 5px;           /* adds space between the image and the border */
     box-sizing: border-box; /* Ensures the border doesn't affect the image layout */
 }
 
