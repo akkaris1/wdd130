@@ -1,6 +1,6 @@
+/*styles sheet for solar page */
 
-
-@import url("styles1.css"); /* Imports the main styles.css file */
+@import url("styles_index.css"); /* Imports the main styles.css file */
 
 /* Make the solar98.jpg image bigger */
 img[src*="solar98.jpg"] {
