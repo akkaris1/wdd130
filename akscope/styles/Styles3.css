@@ -89,7 +89,7 @@ main {
 .text-box {
     background-color: lightyellow;
     padding: 15px;
-    max-width: 1200px; /* Makes the text box longer */
+    max-width: 1600px; /* Makes the text box longer */
 }
 
 .image-item img {
